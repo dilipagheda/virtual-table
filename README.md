@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+## About the project - Virtual Table
+
+This project is an example of react-virtualised library. It shows how to render an infinite list which has different row widths.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
